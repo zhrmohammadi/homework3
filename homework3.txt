@@ -1,0 +1,12 @@
+using System;
+class boolian
+{
+    public static void Main()
+    {
+        bool content = true;
+        bool Nocontent = false;
+        Console.WriteLine("Text is {0}" , content);
+        Console.WriteLine("Text is {0}" , Nocontent);
+
+    }
+}
